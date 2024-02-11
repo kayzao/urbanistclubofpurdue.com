@@ -1,6 +1,7 @@
 # URBANIST CLUB OF PURDUE WEBSITE
 
-thats it idk man maybe ill use wordpress instead
+A website to host the club website of the Urbanist Club of Purdue! Programmed using Astro.
+
 # Astro Starter Kit: Basics
 
 ```sh
